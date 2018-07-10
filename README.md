@@ -1,6 +1,15 @@
 Optus Mobile Usage
 ==================
 
+Status
+------
+
+Inactive and not working.
+
+
+Purpose
+-------
+
 Get the mobile data usage from the Optus website and expose the details as JSON.
 
 
